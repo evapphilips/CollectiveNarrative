@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue";
+  background: #2A2C39; 
+  font-size: 14px;
+  
+}
+
+p {
+  font-size: 15px;
+}
+
+h1{
+  margin: 10px;
+  padding: 0px;
+  font-size: 50px
+}
+
+.state{
+  fill:#e3e3e3;
+  stroke: #333;
+  stroke-width: 0.8px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
+}
+
